@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'conto-regular';
+  src: url('conto-typemates/webfonts/Conto-Regular.eot');
+  src: url('conto-typemates/webfonts/Conto-Regular.eot?#iefix') format('embedded-opentype'),
+         url('conto-typemates/webfonts/Conto-Regular.woff2') format('woff2'),
+         url('conto-typemates/webfonts/Conto-Regular.woff') format('woff'),
+         url('conto-typemates/ttf/Conto-Regular.ttf') format('truetype');
+         /*url('conto-typemates/webfonts/Conto-Regular.svg#ciclefina') format('svg');*/
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
